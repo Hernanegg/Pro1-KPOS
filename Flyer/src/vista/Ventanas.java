@@ -6,7 +6,7 @@ public class Ventanas {
 	
 	public void mostaraHeli(String pTakeOff, String pLand, String pFly, String pFunci, String pConducir, String pFrena)
 	{
-		JOptionPane.showMessageDialog(null,"HELICOPTERO"+"\n"+pTakeOff+"\n"+pLand+"\n"+pFly+"\n"+pFunci+"\n"+pConducir+"\n"+pFrena);
+		JOptionPane.showMessageDialog(null,"HELICOPTERO:"+"\n"+pTakeOff+"\n"+pLand+"\n"+pFly+"\n"+pFunci+"\n"+pConducir+"\n"+pFrena);
 	}
 	
 	public void mostarSeaPlane(String pTakeOff, String pLand, String pFly, String pFunci, String pConducir, String pFrena)
